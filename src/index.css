@@ -84,7 +84,7 @@ button[type='button'] {
   background-color: #7ec0ee;
   font-size: 1.2rem;
   box-shadow: 2px 2px 5px #000;
-  transition: 3s;
+  transition: 5s;
 }
 
 button:hover {
